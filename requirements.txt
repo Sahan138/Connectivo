@@ -1,0 +1,8 @@
+django
+django-crispy-forms
+django-cleanup
+pillow
+django-ckeditor
+channels
+django-allauth
+python-dotenv
